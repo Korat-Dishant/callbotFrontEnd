@@ -1,0 +1,8 @@
+#create .env and put following api keys
+#Navigate to the Clerk Dashboard and select your application.
+#In the navigation sidebar, select API Keys.
+#You can copy your key from the Quick Copy section. make sure to select React before copying the key
+
+
+VITE_APP_SERVER_URI="http://127.0.0.1:8000"
+VITE_CLERK_PUBLISHABLE_KEY=##############YOUR_VITE_CLERK_PUBLISHABLE_KEY#######################
