@@ -93,12 +93,7 @@ function LandingPage() {
               </div>
               <div className="max-w-[515px] flex flex-col gap-8">
                 <span className="text-[17px] Light font-normal font-hindVadodara leading-[146.3%] tracking-wide text-center md:text-left">
-                  Erec delivers end-to-end website solutions,
-                  covering design, e-commerce, digital marketing, and beyond.
-                  Our expertise ensures your website not only looks stunning but
-                  also drives results. Regardless of your business size, our
-                  commitment to quality remains unwavering. Count on us for
-                  effective solutions to elevate your business
+                Improve quality of your customer service by integrating power of AI. We offer 24*7 support to your customers makig sure they have their every query solved at any time.We offer human in the loop system to make sure your customers get the best out of both AI and Human workforce.
                 </span>
                 <a
                   href="/signup"

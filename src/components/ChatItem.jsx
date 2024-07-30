@@ -7,11 +7,11 @@ const ChatItem = ({ chat, type }) => {
     return (
         <div className={`chat-item flex flex-col gap-[0.5rem] ${(type === "sent") ? "items-end" : "items-start"}`}>
             <ChatMessage message={chat.message}/>
-            <div className="flex gap-[1rem] max-w-[75%] flex-wrap  noscrollbar">
+            {/* <div className="flex gap-[1rem] max-w-[75%] flex-wrap  noscrollbar">
                 {chat.products.map((product, index) => (
                     <ProductCard key={index} size="sm" productData={product} />
                 ))}
-            </div>
+            </div> */}
         </div>
     );
 }
